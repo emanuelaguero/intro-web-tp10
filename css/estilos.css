@@ -1,0 +1,39 @@
+tbody,tr,td{
+    border: 1px solid;
+    width: 200px;
+    text-align: center;
+    margin: 5px;
+  
+}
+
+#tabla{
+display:flex;
+justify-content:left;
+align-items: center;
+}
+
+button{
+    margin: 5px;
+ 
+}
+
+div{
+    margin: 5px;
+    
+}
+#ajusteTamaño{
+    width: 800px;
+    height: 70px;
+    background-color: aquamarine;
+    
+}
+#contenedorMensaje{
+    padding-top: 20px;
+    
+    
+}
+#mensaje{
+    color:green;
+    vertical-align:middle;
+    align-items: center;
+}
